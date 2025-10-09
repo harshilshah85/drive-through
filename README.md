@@ -24,11 +24,3 @@ See backend/README.md and frontend/README.md for setup instructions
 3. Orders can contain one or multiple items and 1 or multiple quantities of each item
 4. Placing or cancelling orders should be reflected in the UI
 
-# Other Considerations
-
-Please think through and be able to talk about the following considerations:
-
-* validating user inputs
-* multi-tenant access
-* extensibility for example, new functions being added
-* testing and reliability
